@@ -188,7 +188,7 @@ Returns:
 ```
 ## Dashboard
 
-![LeetMetric Dashboard](screenshots/dashboard.png)
+![LeetMetric dashboard](screenshots/dashboard.png)
 ```
 
 ---
