@@ -182,16 +182,6 @@ Returns:
 
 ---
 
-# 📸 Screenshots
-
-
-```
-## Dashboard
-
-![Leetmetric dashboard](screenshots/dashboard.png)
-```
-
----
 
 # 🔮 Future Improvements
 
