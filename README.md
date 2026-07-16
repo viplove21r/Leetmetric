@@ -26,7 +26,6 @@ Displays:
 * Reputation
 * Star rating
 * About section
-* Other profile details
 
 ### 🔍 Username Validation
 
@@ -77,25 +76,6 @@ Concepts used:
 
 ---
 
-# 🏗️ Project Architecture
-
-```
-                User
-                 |
-                 |
-              Vercel
-        (Frontend Application)
-                 |
-                 |
-          HTTP POST Request
-                 |
-                 |
-              Render
-        (Express Backend API)
-                 |
-                 |
-        LeetCode GraphQL API
-```
 
 The frontend communicates with the backend server to avoid browser CORS restrictions.
 
@@ -128,19 +108,6 @@ LeetMetric
 
 # ⚙️ Installation & Setup
 
-## Clone the Repository
-
-```bash
-git clone https://github.com/your-username/LeetMetric.git
-```
-
-Navigate into the project:
-
-```bash
-cd LeetMetric
-```
-
----
 
 # Backend Setup
 
@@ -215,46 +182,13 @@ Returns:
 
 ---
 
-# 🚀 Deployment
-
-## Frontend
-
-Deployed using:
-
-```
-Vercel
-```
-
-## Backend
-
-Deployed using:
-
-```
-Render
-```
-
-Production architecture:
-
-```
-Vercel
-   |
-   |
-Render API
-   |
-   |
-LeetCode GraphQL
-```
-
----
-
 # 📸 Screenshots
 
-(Add screenshots of your application here)
-
-Example:
 
 ```
-![Dashboard](screenshots/dashboard.png)
+## Dashboard
+
+![LeetMetric Dashboard](screenshots/dashboard.png)
 ```
 
 ---
@@ -304,27 +238,9 @@ git push origin feature-name
 
 ---
 
-# 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
 # 👨‍💻 Author
 
-**Your Name**
-
-GitHub:
-
-```
-https://github.com/your-profile
-```
-
-LinkedIn:
-
-```
-https://linkedin.com/in/your-profile
-```
+**Viplove Rajora**
 
 ---
 
